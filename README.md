@@ -1,2 +1,5 @@
 # test web
-### 2024.5.25
+## Date 2024.5.25
+
+# socials
+## email : gaminghelix@gmail.com
